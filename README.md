@@ -1,5 +1,3 @@
-# soc-estimation-using-python-and-Arduino
-# soc-estimation
 # 🔋 Estimating Battery SoC with an Extended Kalman Filter (python)  and an Arduino
 
 ## Project Overview
